@@ -18,42 +18,42 @@
   "name": "Ajaccio",
   "lat": 41.918621,
   "long": 8.736870,
-  "link": [0]
+  "link": 0
   },
   {
   "id": 3,
   "name": "Annecy",
   "lat": 45.899246,
   "long": 6.129384,
-  "link": [4]
+  "link": 4
   },
   {
   "id": 4,
   "name": "Digne-les-Bains",
   "lat": 44.090981,
   "long": 6.231540,
-  "link": [5]
+  "link": 5
   },
   {
   "id": 5,
   "name": "Chambery",
   "lat": 45.566700,
   "long": 5.920850,
-  "link": [1]
+  "link": 1
   },
   {
   "id": 6,
   "name": "Nagoya",
   "lat": 35.181446,
   "long": 136.906403,
-  "link": [7]
+  "link": 7
   },
   {
   "id": 7,
   "name": "Osaka",
   "lat": 34.693737,
   "long": 135.502167,
-  "link": [1]
+  "link": 1
   },
   {
   "id": 8,
