@@ -11,7 +11,7 @@
   "name": "Grenoble",
   "lat": 45.188530,
   "long": 5.724524,
-  "link": [0,3,6,8]
+  "link": [0,3,6,8,13,17]
   },
   {
   "id": 2,
@@ -25,21 +25,21 @@
   "name": "Annecy",
   "lat": 45.899246,
   "long": 6.129384,
-  "link": 4
+  "link": [4,23,9,10]
   },
   {
   "id": 4,
   "name": "Digne-les-Bains",
   "lat": 44.090981,
   "long": 6.231540,
-  "link": 5
+  "link": [5,14,15]
   },
   {
   "id": 5,
   "name": "Chambery",
   "lat": 45.566700,
   "long": 5.920850,
-  "link": 1
+  "link": [1,11]
   },
   {
   "id": 6,
@@ -60,6 +60,97 @@
   "name": "Lyon",
   "lat": 45.764042,
   "long": 4.835659,
+  "link": [15,16]
+  },
+  {
+  "id": 9,
+  "name": "Venise",
+  "lat": 45.434341,
+  "long": 12.338780,
+  "link": [18,19,20]
+  },
+  {
+  "id": 10,
+  "name": "Rome",
+  "lat": 41.902782,
+  "long": 12.496365,
+  "link": []
+  },
+  {
+  "id": 11,
+  "name": "Tokyo",
+  "lat": 35.689487,
+  "long": 139.691711,
+  "link": 7
+  },
+  {
+  "id": 14,
+  "name": "Londres",
+  "lat": 51.507351,
+  "long": -0.127758,
+  "link": []
+  },
+  {
+  "id": 15,
+  "name": "Barcelone",
+  "lat": 41.385064,
+  "long": 2.173403,
+  "link": []
+  },
+  {
+  "id": 16,
+  "name": "Majorque",
+  "lat": 39.695263,
+  "long": 3.017571,
+  "link": []
+  },
+  {
+  "id": 17,
+  "name": "Berne",
+  "lat": 46.947974,
+  "long": 7.447447,
+  "link": [21,22]
+  },
+  {
+  "id": 18,
+  "name": "Bologne",
+  "lat": 44.494887,
+  "long": 11.342616,
+  "link": []
+  },
+  {
+  "id": 19,
+  "name": "Florence",
+  "lat": 43.76956,
+  "long": 11.255814,
+  "link": []
+  },
+  {
+  "id": 20,
+  "name": "Turin",
+  "lat": 45.070339,
+  "long": 7.686864,
+  "link": []
+  },
+  {
+  "id": 21,
+  "name": "Lausanne",
+  "lat": 46.519654,
+  "long": 6.632273,
+  "link": []
+  },
+  {
+  "id": 22,
+  "name": "Neuchâtel",
+  "lat": 46.989987,
+  "long": 6.929273,
+  "link": []
+  },
+  {
+  "id": 23,
+  "name": "Geneve",
+  "lat": 46.204391,
+  "long": 6.143158,
   "link": []
   }
 ]
