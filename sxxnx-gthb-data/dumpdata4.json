@@ -96,7 +96,7 @@
     "3" : {
       "git" : "https://github.com/sxxnx/Fraud-detection-viz",
       "demo": "https://sxxnx.github.io",
-      "img": "",
+      "img": "fraud",
       "tech": {
         "0": {
           "name": "D3.js",
