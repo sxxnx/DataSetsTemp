@@ -127,7 +127,7 @@
     "4" : {
       "git" : "https://github.com/sxxnx/portfoliov2",
       "demo": "https://sxxnx.github.io",
-      "img": "",
+      "img": "portfolio",
       "tech": {
         "0": {
           "name": "D3.js",
